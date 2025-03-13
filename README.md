@@ -1,2 +1,2 @@
-# Site-de-Loja
+# Site de Loja
  Loja Anna Bella
