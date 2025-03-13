@@ -1,0 +1,53 @@
+/* Estilo para o corpo da página */
+body {
+  background: #d2d2c1 url('arquivos-necessarios-projeto-anna-bella/fundo.png');
+  font: 16px Arial,Helvetica,sans-serif;
+}
+
+/* Estilo para a div principal */
+#Principal {
+  width: 900px;
+}
+
+/* Estilo para o menu */
+#menu {
+  background: #c5c5b2;
+  padding: 18px;
+}
+
+/* Estilo para o conteúdo */
+#conteudo {
+  background: #e8e8e9;
+  padding: 10px;
+}
+
+/* Estilo para os links */
+a {
+  color: #4b566a;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px;
+}
+
+/*Todos os H1 do site*/
+h1{
+  color: #828271;
+  font-size: 1.2em;
+}
+
+/*Todos os paragráfos do site*/
+.paragrafo{
+  color: black;
+  font-size: 1.2em;
+}
+/* Estilo para os links quando passam o mouse */
+a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+/* Estilo para o rodapé */
+#rodape {
+  text-align: center;
+  padding: 10px;
+  font: bold 12px Arial,Helvetica,sans-serif;
+}
